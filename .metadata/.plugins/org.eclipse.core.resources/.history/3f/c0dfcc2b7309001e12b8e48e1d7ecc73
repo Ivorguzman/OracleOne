@@ -1,0 +1,35 @@
+package poo4;
+
+public class Cuenta {
+
+	double saldo;// variable tipo de dato d
+    int agencia;// variable tipo de dato int
+    int numero;// variable tipo de dato int
+    Cliente titular;// variable tipo de dato Cliente
+
+    public void deposita(double valor) {
+        this.saldo = this.saldo + valor;
+    }
+
+
+    public boolean saca(double valor) {
+        if(this.saldo >= valor) {
+            this.saldo -= valor;
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+
+    public boolean transfiere(double valor, Cuenta destino) {
+        if(this.saldo >= valor) {
+            this.saldo -= valor;
+            destino.deposita(valor);
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+}

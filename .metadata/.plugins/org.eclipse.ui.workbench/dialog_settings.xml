@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="PreferencesImportWizard">
+		<item key="" value="E:\Recursos de Programacion\all_Eclipces_2023.epf"/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="E:\Recursos de Programacion\all_Eclipces_2023.epf"/>
+		</list>
+	</section>
+	<section name="PreferencesExportWizard">
+		<item key="" value="E:\Recursos de Programacion\misPreferenciasEclipces_2023.epf"/>
+		<item key="WizardPreferencesExportPage1.STORE_OVERWRITE_EXISTING_FILES_ID" value="false"/>
+		<item key="WizardPreferencesExportPage1.EXPORT_ALL_PREFERENCES_ID" value="true"/>
+		<item key="" value="C:\Users\Alexander\eclipse\apparence_end_ code_style_Eclipces_2023.epf"/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\Alexander\eclipse\apparence_end_ code_style_Eclipces_2023.epf"/>
+			<item value="E:\Recursos de Programacion\misPreferenciasEclipces_2023.epf"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,10 @@
+
+public class Conversion_variables {
+	public static void main(String[] args) {
+		double variable1 = 230.89;
+		int variable2 = (int) variable1; // (cats) ==> << (int) variable1 >> Obligando a variable1 a ser de tipo entero
+
+		
+	}
+
+}

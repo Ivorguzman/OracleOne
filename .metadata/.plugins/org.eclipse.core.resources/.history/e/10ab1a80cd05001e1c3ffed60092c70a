@@ -1,0 +1,10 @@
+
+public class TipoVariableDecimal {
+	public static void main(String[] args) {
+
+		double salario = 1250.55;
+		double salario2 =1250.50;
+
+	}
+
+}

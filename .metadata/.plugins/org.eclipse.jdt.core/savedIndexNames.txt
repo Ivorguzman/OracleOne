@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+G:\c_programacion\c__back_end\talleres_aprendizaje_java\beca_oracleone_backend_\ejercicios_clases\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3701531455.index
+3629528288.index
+3331474501.index

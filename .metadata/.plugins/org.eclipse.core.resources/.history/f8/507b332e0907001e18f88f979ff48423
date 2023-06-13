@@ -1,0 +1,44 @@
+
+public class Condicionales {
+	public static void main(String[] args) {
+		String noApta = " no bienes acompañado y no es  apta para menores";
+		String apto = "Pero bienes ACOMPAÑADO con Juan";
+		int edad = 10;
+		boolean noSolo = false;
+		boolean boleto = true;
+
+
+		if (boleto == true) {
+			System.out.println("Hola Juan");// sysout + ctl + space
+		}
+
+		if (boleto == true)
+			System.out.println("Puedes entrar");// sin llaves  como phiton
+		System.out.println("Peliculas typo C Violencia");
+
+
+		if (boleto == false) {
+			System.out.println("Para entra se requiere  tener un Boleto");
+		}
+
+		if (edad >= 18 && noSolo == false && boleto == true) {
+			System.out.println("No puedes entrar amiguito tienes menos de 18 años " + noApta);
+		}
+
+
+		if (boleto == true) {
+			System.out.println("Disfruta tu pelicula");
+		}
+
+		if (edad < 18 && noSolo == false && boleto == true) {
+			System.out.println("No puedes entrar amiguito tienes menos de 18 años " + noApta);
+		}
+
+		if (edad < 18 && noSolo == true && boleto == true) {
+			System.out.println("Tu tambien puedes entrar amiguito tienes menos de 18 años " + apto);
+		} else if (edad >= 18 && noSolo == true && boleto == true) {
+			System.out.println("Tu tambien puedes entrar amiguito tienes menos de 18 años " + apto);
+		}
+	}
+
+}

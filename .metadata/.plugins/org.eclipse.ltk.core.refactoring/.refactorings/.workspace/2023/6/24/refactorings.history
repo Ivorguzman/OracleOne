@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Redenominar el recurso &apos;JavaIntroduccionObjetosClase3&apos; como &apos;IntroduccionObjetosOracleOne&apos;" description="Redenominar recurso &apos;JavaIntroduccionObjetosClase3&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/JavaIntroduccionObjetosClase3" name="IntroduccionObjetosOracleOne" stamp="1686606187102" updateReferences="true"/>
+</session>

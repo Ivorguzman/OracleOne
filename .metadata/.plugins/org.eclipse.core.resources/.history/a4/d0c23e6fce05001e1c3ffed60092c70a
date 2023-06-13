@@ -1,0 +1,15 @@
+
+public class TipoVariableDecimal {
+	public static void main(String[] args) {
+
+		double salario = 1250;
+		double salario2 = 1250.50;
+		double salario3 = 1250.55;
+
+		System.out.println("Salario = " + salario);
+		System.out.println("Salario 2 = " + salario2);
+		System.out.println("Salario 3 = " + salario3);
+
+	}
+
+}
